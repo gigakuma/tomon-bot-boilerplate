@@ -982,10 +982,10 @@ to-regex-range@^5.0.1:
   dependencies:
     is-number "^7.0.0"
 
-tomon-sdk@^0.1.3:
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/tomon-sdk/-/tomon-sdk-0.1.3.tgz#a7070748ff922bb9629d31c88529dd273819a253"
-  integrity sha512-SV7kS7BZDcccQ6nh1vlxHxD+/WqNvtyTeKL4TDEY1Wj3ZYM/zmF+IZBInX2V6zm4Bc6LfeHnP5zt2x0+peJ04g==
+tomon-sdk@^0.1.4:
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/tomon-sdk/-/tomon-sdk-0.1.4.tgz#ff1596e7ba282f0404e446b850462e21867df73e"
+  integrity sha512-85I/awU+0orzoHAw3A/sCTAMLhdOgLDMD1EiHbm7N5ndMRbdXPpU8Mm+PVaA0RYtdFRHA9WaJBggsvWNMjxMHQ==
   dependencies:
     "@types/pako" "^1.0.1"
     "@types/url-join" "^4.0.0"
