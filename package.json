@@ -29,6 +29,6 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
-    "tomon-sdk": "^0.1.1"
+    "tomon-sdk": "^0.1.3"
   }
 }
